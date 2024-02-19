@@ -4,7 +4,7 @@ const count = animals.push('cows');
 console.log(count);
 // Expected output: 4
 console.log(animals);
-// Expected output: Array ["pigs", "goats", "sheep", "cows"] aaa
+// Expected output: Array ["pigs", "goats", "sheep", "cows"] aaaa
 
 animals.push('chickens', 'cats', 'dogs');
 console.log(animals);
